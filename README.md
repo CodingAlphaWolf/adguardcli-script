@@ -4,8 +4,8 @@ It installs the latest version of the software if Adguard-CLI can't be found on 
 
 ## Features
 * Menu driven interactions with Adguard-CLI
-* Option to inport and export settings.
-* Start or stop the service.
+* Option to import and export settings.
+* Start or stop adguard from filtering your traffic.
 * A filter section where you can update, remove, change and see your current filters.
 * Auto update check for Adguard itself (Not sure if its working)
 
